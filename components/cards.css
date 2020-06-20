@@ -2,11 +2,10 @@
 .card-white {
   background-color: white;
   padding: 20px;
-  margin: 30px;
+  margin: 10px 30px 50px 70px;
   box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
   border-radius: 4px;
   text-align: center;
-  margin: 20px;
 
 }
 
@@ -35,14 +34,17 @@
 }
 
 .button {
-  background-color: #76b6fd;
-  margin: 20px 00px;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  font-size: 16px;
-  border-radius: 20px;
+    background-color: #76b6fd;
+    margin: 20px 450px;
+    border: none;
+    color: white;
+    padding: 11px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 20px;
+}
 
+.button:hover {
+  background-color: rgba(100,0,0,0.5);
 }

@@ -1,4 +1,7 @@
-
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+@import url("components/container.css");
 
 body {
   background-color: #FFFFFF;
@@ -42,7 +45,6 @@ a:link {
 a:hover;  {
   color: color: rgba(10,0,0,0.4);
 }
-
 
 .container {
  /* width: 800px;*/
